@@ -4,17 +4,17 @@ This is an exmaple for this slide: https://hackmd.io/p/rJpxFxuu
 
 ## How?
 
-Install dependencies
+### Install dependencies
 ```shell
 $ npm install
 ```
 
-Start development
+### Start development
 ```shell
 $ npm start
 ```
 
-Build your application
+### Build your application
 ```shell
 $ npm run dist
 ```
